@@ -1,0 +1,21 @@
+= Normativa d'aplicació
+:experimental:
+:icons: font
+:page-partial:
+:source-highlighter: highlightjs
+
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+include::{partialsdir}/README.adoc[tag=metadata]
+
+Referent a la contractació pública:
+
+* La Directiva 2014/24/UE sobre contractació pública estableix l'obligatorietat de la licitació electrònica el tercer trimestre del 2018, pel que fa referència a l'ús de mitjans electrònics per a la comunicació i intercanvis d'informació (octubre del 2017 per a les centrals de compres).
+* Reial Decret Legislatiu 3/2011, de 14 de novembre, pel qual s'aprova el text refós de la Llei de contractes del sector públic
+* La Llei 39/2015, de procediment administratiu comú, estableix, entre d'altres, l'obligatorietat d'utilitzar l'expedient electrònic i tramitar-lo també per via electrònica.
+* La Llei 19/2014, de 29 de desembre, de transparència, accés a la informació pública i bon govern, estableix les obligacions de publicitat activa que han de complir el ajuntaments, entre les quals hi ha les corresponents a contractes i convenis.
+* Decret d'Alcaldia (S1/D/2017-1271 de 24 d'abril), de contractació pública sostenible de l'Ajuntament de Barcelona.
+* El Reial Decret 4/2010 (Esquema Nacional d'Interoperabilitat), que estableix, entre d'altres, l'obligació de complir amb estàndards oberts i de reutilitzar codi si existeix.
+* El Reial Decret 5/2010 (Esquema Nacional de Seguretat).

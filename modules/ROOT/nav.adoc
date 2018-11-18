@@ -1,0 +1,13 @@
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+.$$MAIN
+* xref:context.adoc[Context]
+* xref:measures.adoc[Mesures i aplicació a la contractació]
+* xref:regulations.adoc[Normativa d'aplicació]
+
+.$$BOTTOM
+* xref:{lang}/glossary:ROOT:glossary.adoc[Glossari de les guies]
+* link:{attachmentsdir}/barcelona_ict_procurement_{revnumber}.{lang}.pdf[Descarregar el PDF]
