@@ -19,7 +19,7 @@
 //
 // MANDATORY. Title of the document. In web format, it appears as a heading of
 // level 1. In PDF format, it appears in a title page.
-:_title: Compra TIC
+:_title: Compra pública de TIC
 //
 // OPTIONAL. Subtitle of the document.
 :_subtitle:
