@@ -12,20 +12,20 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 == Introducció
 
-*LA CONTRACTACIÓ COM A PALANCA DE TRANSFORMACIÓ DEL MODEL ECONÒMIC I SOCIAL*
+=== La contractació com a palanca de transformació del model econòmic i social
 
 *La contractació municipal representa una injecció de recursos en l'economia molt rellevant.*
-L'Ajuntament de Barcelona té un volum de contractació anual d'uns 600 milions d'euros en béns i serveis (gairebé la quarta part del pressupost municipal), xifra que supera els 1.000 milions d'euros, si es consolida tot el grup municipal. 
+L'Ajuntament de Barcelona té un volum de contractació anual d'uns 600 milions d'euros en béns i serveis (gairebé la quarta part del pressupost municipal), xifra que supera els 1.000 milions d'euros, si es consolida tot el grup municipal.
 Aquestes xifres converteixen l'Ajuntament en un dels motors d'activitat econòmica a la ciutat.
 
 *La contractació pública administrativa esdevé així una de les principals eines pel que fa a la política econòmica municipal* i, per tant, una de les palanques clau per impulsar la transformació del model econòmic i social de Barcelona.
 
 *L'Ajuntament vol* aprofitar aquests recursos per *impulsar un nou model de govern i gestió de les TIC a l'Ajuntament*, com a motor d'aquesta transformació, i convertir-les en un instrument per al creixement del teixit econòmic del sector TIC i d'innovació de la ciutat.
 
-*LES TIC I LA INNOVACIÓ COM A ELEMENTS CENTRALS DE TRANSFORMACIÓ*
+=== Les tic i la innovació com a elements centrals de transformació
 
-*L'evolució de les TIC en general, i l'ús generalitzat d'internet en concret, estan transformant pràcticament tots els sectors de la nostra societat i de la nostra economia* (des de la manufactura i el transport, fins a l'energia o l'atenció sanitària). 
-La informació i les dades s'han convertit en un dels béns més valuosos i preuats. 
+*L'evolució de les TIC en general, i l'ús generalitzat d'internet en concret, estan transformant pràcticament tots els sectors de la nostra societat i de la nostra economia* (des de la manufactura i el transport, fins a l'energia o l'atenció sanitària).
+La informació i les dades s'han convertit en un dels béns més valuosos i preuats.
 Aquestes són el producte principal del que s'anomena economia del coneixement o economia digital.
 
 En aquest nou context, les empreses són, en molts casos, més valorades per les seves idees i la informació que gestionen que no pas pels seus actius materials.
@@ -43,9 +43,9 @@ Sens dubte, tots ells són exemples de com *l'ús de les TIC i especialment els 
 
 *És en aquest context que les ciutats com Barcelona afronten la necessitat de transformar les seves maneres de fer*, i cercar noves estratègies basades en la tecnologia i la innovació, per buscar un creixement econòmic més equitatiu i sostenible que faciliti una realització de les competències municipals amb eficiència i justícia social.
 
-*TRANSICIÓ CAP A LA SOBIRANIA TECNOLÒGICA*
+=== Transició cap a la sobirania tecnològica
 
-El 6 d'octubre de 2016 la comissionada de Tecnologia i Innovació Digital va presentar el “Pla Barcelona digital 2017-2020: transició cap a la sobirania tecnològica”, la missió del qual és “resoldre els reptes de la ciutat i de les persones a través d'un ús més democràtic de la tecnologia. 
+El 6 d'octubre de 2016 la comissionada de Tecnologia i Innovació Digital va presentar el “Pla Barcelona digital 2017-2020: transició cap a la sobirania tecnològica”, la missió del qual és “resoldre els reptes de la ciutat i de les persones a través d'un ús més democràtic de la tecnologia.
 Impulsar la innovació tecnològica i digital, per un govern més obert, com a eina per al desenvolupament d'una economia plural que fomenti la transformació social i ambiental, i que afavoreixi l'apoderament ciutadà.”
 
 El Pla, que s'estructura en tres eixos, és una mostra de la voluntat de Barcelona de liderar una transició cap a la sobirania tecnològica, una sobirania tecnològica, del govern i de la ciutadania, que permeti fer-los partícips per decidir i actuar sobre les prioritats i estratègies en l'ús de la tecnologia a la ciutat:
@@ -71,7 +71,7 @@ Barcelona vol aprofitar les oportunitats que brinden la tecnologia i la innovaci
 
 Aquesta guia proporciona *una visió global de l'estratègia municipal pel que fa a la compra de tecnologia i serveis tecnològics*, amb l'objectiu de facilitar la comprensió de les diferents mesures estratègiques, així com de les clàusules contractuals, que permeten aplicar els plantejaments de l'Ajuntament en aquest àmbit.
 
-*DESTINATARIS DE LA GUIA*
+=== Destinataris de la guia
 
 Aquesta guia s'ha elaborat pensant en els *responsables de les diferents àrees i òrgans municipals, directius i gestors de serveis públics, tècnics municipals, proveïdors TIC de l'Ajuntament, ciutadans i qualsevol persona amb un interès per la compra o provisió de serveis tecnològics*, i ofereix informació detallada sobre el “per què”, el “què” i el “com” pel que fa a la contractació TIC tecnològics, incloent explicacions sobre el contingut de les mesures, i la seva aplicació.
 Concretament:
@@ -85,13 +85,13 @@ Concretament:
 * Finalment, la publicació d'aquesta guia esdevé un exercici de transparència per als ciutadans, ja que permet aprofundir en el coneixement, seguiment i control de les mesures que està prenent l'Ajuntament per tal d'assolir els objectius fixats.
 
 
-*ELABORACIÓ DE LA GUIA / POSADA EN MARXA*
+=== Elaboració de la guia / posada en marxa
 
 Aquesta guia és *resultat del treball conjunt de diferents àrees de l'Ajuntament i de l'IMI, i la participació del sector empresarial:*
 
-* S'ha treball conjuntament en l'elaboració del contingut:*
-** 	Amb tècnics i referents de l'IMI en les diferents matèries TIC objecte d'aquesta guia.
-**Amb tècnics i referents de l'àrea d'Administració, de Serveis Jurídics i de la Intervenció de l'IMI pel que fa a l'adequació i validesa jurídica dels plantejaments, mesures proposades i clàusules
+* S'ha treball conjuntament en l'elaboració del contingut:
+** Amb tècnics i referents de l'IMI en les diferents matèries TIC objecte d'aquesta guia.
+** Amb tècnics i referents de l'àrea d'Administració, de Serveis Jurídics i de la Intervenció de l'IMI pel que fa a l'adequació i validesa jurídica dels plantejaments, mesures proposades i clàusules
 
 * S'ha comptat amb el suport i l'assessorament de la Direcció de Coordinació de Contractació de l'Ajuntament de Barcelona.
 
@@ -101,9 +101,9 @@ Per a la posada en marxa de les mesures i els plantejaments que es recullen, s'e
 
 * S'habilitarà un espai web on es podrà accedir a informació rellevant sobre el procés de transformació i l'estratègia municipal pel que fa a la compra pública.
 
-* S'està treballant, des de l'Ajuntament, per posar en marxa un marketplace: Un espai de diàleg i interrelació entre proveïdors, ciutadans i l'Ajuntament, que permetrà accedir a tota la informació sobre els procediments de contractació oberts, informar-se sobre els futurs contractes en licitació i disposar d'informació i indicadors sobre els resultats de l'execució dels contractes ja finalitzats (entre d'altra informació). 
+* S'està treballant, des de l'Ajuntament, per posar en marxa un marketplace: Un espai de diàleg i interrelació entre proveïdors, ciutadans i l'Ajuntament, que permetrà accedir a tota la informació sobre els procediments de contractació oberts, informar-se sobre els futurs contractes en licitació i disposar d'informació i indicadors sobre els resultats de l'execució dels contractes ja finalitzats (entre d'altra informació).
 L'objectiu és doble: donar més visibilitat i transparència als processos de contractació i facilitar el contacte entre empreses per generar aliances, projectes d'innovació i coneixement de bones pràctiques pel que fa al proveïment de serveis TIC a l'Administració.
- 
+
 * Finalment, per tal de materialitzar tots aquests canvis, es duran a terme una sèrie de canvis organitzatius que permetin implementar aquesta estratègia de manera efectiva.
 
 == Marc de referència: la compra pública sostenible
@@ -139,11 +139,9 @@ Mesures que tenen un efecte multiplicador sobre els altres dos eixos (social i a
 
 Aquesta estratègia ha pres forma amb la publicació d'un Decret d'Alcaldia de contractació pública sostenible de l'Ajuntament de Barcelona (S1/D/2017-1271, de 24 d'abril), en què s'estableix, en el seu primer article, la voluntat d'impulsar una contractació pública que integra, en la causa i l'objecte del contracte públic municipal, mesures socials, ambientals, ètiques i d'innovació:
 
-· Tot garantint els drets laborals, socials
-i ciutadans de les persones que executin el
-contracte públic i de les persones destinatàries o usuàries d'aquest.
-· Que impulsin una economia local circular i sostenible.
-· Que promoguin l'activitat econòmica de les mitjanes, petites i microempreses locals i, singularment, de les empreses socials.
+* Tot garantint els drets laborals, socials i ciutadans de les persones que executin el contracte públic i de les persones destinatàries o usuàries d'aquest.
+* Que impulsin una economia local circular i sostenible.
+* Que promoguin l'activitat econòmica de les mitjanes, petites i microempreses locals i, singularment, de les empreses socials.
 
 *El Decret incorpora la Guia de contractació pública social i la Guia de contractació pública ambiental* amb l'objectiu de donar més visibilitat i accelerar la incorporació de les mesures i clàusules de caràcter social i ambiental en els futurs plecs, i preveu la possible incorporació de mesures o instruccions en altres àmbits.
 
@@ -151,37 +149,37 @@ contracte públic i de les persones destinatàries o usuàries d'aquest.
 
 == Concepte de contractació TIC i compra per a la innovació
 
-*CONTRACTACIÓ TECNOLÒGICA*
+=== Contractació tecnològica
 
 Parlem de contractació TIC per referir-nos a qualsevol procés d'adquisició, manteniment o millora de qualsevol element associat als àmbits següents:
 
 * *Les xarxes i infraestructures de comunicació.* Incloent tota aquella infraestructura que permet la comunicació entre dos terminals o equips informàtics.
 
-* *Maquinari o element físic de comunicació i processament de la informació (terminals).* 
-Els terminals actuen com a punt d'accés a la societat de la informació i, per això, són de summa importància i són un dels elements que més han evolucionat i evolucionen: és contínua l'aparició de terminals que permeten aprofitar la digitalització de la informació i la creixent disponibilitat d'infraestructures per a l'intercanvi d'aquesta informació digital. 
+* *Maquinari o element físic de comunicació i processament de la informació (terminals).*
+Els terminals actuen com a punt d'accés a la societat de la informació i, per això, són de summa importància i són un dels elements que més han evolucionat i evolucionen: és contínua l'aparició de terminals que permeten aprofitar la digitalització de la informació i la creixent disponibilitat d'infraestructures per a l'intercanvi d'aquesta informació digital.
 A tot això han contribuït diverses novetats tecnològiques que han coincidit en el temps per afavorir un entorn propici, atès que la innovació en terminals va unida a la innovació en serveis, ja que usualment el terminal és l'element que en limita l'accés.
 
 * *Programari.* És el conjunt dels programes informàtics, procediments i documentació que fan alguna tasca en un ordinador.
 
-* *Els serveis digitals.* 
+* *Els serveis digitals.*
 S'entén per servei digital tot servei que es posa a disposició de l'usuari a través d'internet o de qualsevol adaptació o aplicació dels protocols, plataformes o de la tecnologia utilitzada per internet o qualsevol altra xarxa, pública o privada, a través del qual es prestin serveis equivalents mitjançant accessos en línia i que es caracteritza perquè és essencialment automàtic i no és viable en absència de la tecnologia de la informació.
 
 
-*LA COMPRA PÚBLICA PER A LA INNOVACIÓ*
+=== La compra pública per a la innovació
 
 L'Ajuntament vol participar dels avantatges de la compra per a la innovació i s'ha fixat com a estratègia la introducció d'un seguit d'accions per fer que les seves compres fomentin la innovació amb la finalitat de garantir i incrementar el benestar de les persones que viuen en el territori.
 
 La contractació pública per a la innovació és una nova manera de contractar i de dialogar amb el mercat per respondre a les necessitats que no troben solució en els processos de contractació ordinària.
 
-Aquest nou enfocament de les compres públiques es postula com una eina fonamental per obtenir solucions que s'ajustin molt més a les demandes reals de la societat, i a ajudar les empreses a ser més competitives. 
+Aquest nou enfocament de les compres públiques es postula com una eina fonamental per obtenir solucions que s'ajustin molt més a les demandes reals de la societat, i a ajudar les empreses a ser més competitives.
 L'Ajuntament es posiciona com a tractor d'innovació del mercat
 
-Es pretén, així, estimular la creació de nous mercats, nous productes, nous mètodes de producció o noves maneres d'organització o subministrament. Tot passant d'una compra pública molt detallada en els plecs tècnics i sovint adjudicada amb criteris del millor preu, a una compra que treballa per definició de reptes i solucions sostenibles innovadores, sovint amb la implicació de multiplicitat d'actors. 
+Es pretén, així, estimular la creació de nous mercats, nous productes, nous mètodes de producció o noves maneres d'organització o subministrament. Tot passant d'una compra pública molt detallada en els plecs tècnics i sovint adjudicada amb criteris del millor preu, a una compra que treballa per definició de reptes i solucions sostenibles innovadores, sovint amb la implicació de multiplicitat d'actors.
 Aquest nou plantejament permet l'entrada d'idees, de solucions innovadores que aporten eficiència.
 
 *Per a més detalls, consulteu la Guia de compra per a la innovació editada per l'Ajuntament de Barcelona.*
 
-*ÀMBITS D'APLICACIÓ DELS SERVEIS TIC*
+=== Àmbits d'aplicació dels serveis tic
 
 El àmbits d'aplicació d'aquesta guia, pel que fa a la tecnologia, són, principalment, els següents:
 
@@ -190,7 +188,7 @@ El àmbits d'aplicació d'aquesta guia, pel que fa a la tecnologia, són, princi
 
 * *Infraestructures TIC.* Desplegament, seguiment i control d'aplicacions, serveis i sistemes TIC de l'Ajuntament, inclosa l'administració de tasques relacionades amb el funcionament de la infraestructura i aplicacions.
 
-*ÀMBITS D'APLICACIÓ DE LA COMPRA PER A LA INNOVACIÓ*
+=== Àmbits d'aplicació de la compra per a la innovació
 
 Barcelona proposa una definició àmplia de promoció de la innovació en la seva estratègia:
 

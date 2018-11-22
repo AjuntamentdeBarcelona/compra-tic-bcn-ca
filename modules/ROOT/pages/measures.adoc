@@ -16,7 +16,7 @@ Les mesures que caldrà observar en el nou model de contractació de serveis TIC
 
 image::ict-procurement-p12-cat.svg[Esquema eixos contractació, width=2126, align="center"]
 
-*NOU MODEL DE RELACIÓ*
+=== Nou model de relació
 
 La visió tradicional de l'acció de l'Administració es basa en l'exercici de l'autoritat d'acord amb la legitimitat que la llei i l'ordenament jurídic li confereixen.
 Així, el *procediment administratiu* (i, per tant, també la contractació pública) *s'ha concebut com un procés tancat i extremadament regulat.*
@@ -33,7 +33,7 @@ Pel que fa a la contractació pública, *aquesta unilateralitat ha tingut com a 
 *Aquest paradigma, però, està canviant.*
 *Les principals línies d'actuació que s'estan impulsant des de l'Ajuntament* per fer efectiu aquest nou marc relacional i contractual són les que s'expliquen a continuació.
 
-*CONSULTES PRELIMINARS*
+==== Consultes preliminars
 
 El marc legal actual contempla la possibilitat d'iniciar un diàleg entre els poders adjudicadors i mercat, previ a l'inici de l'expedient de contractació.
 L'objectiu és conèixer i fer prospecció de les solucions que ofereix al mercat per cobrir les necessitats objecte del contracte.
@@ -46,7 +46,7 @@ La participació del mercat en la fase de preparació del contracte representa u
 
 * És tracta d'un model de contractació amb *més col·laboració entre les parts*, fet que facilita un acostament de l'Administració a la realitat del mercat
 
-*OBERTURA DEL MERCAT*
+==== Obertura del mercat
 
 *Model de relació més obert i transparent amb el sector TIC, amb processos de compra més senzills, eficients i accessibles* per alleugerir la burocràcia i reduir els costos d'accés a la contractació pública.
 
@@ -60,7 +60,7 @@ Els procediments complexos poden esdevenir barreres per a l'accés a la contract
 
 L'objectiu de minimitzar aquestes barreres és eixamplar el ventall de proveïdors amb què treballa l'IMI i obrir, així, la compra pública a l'ecosistema d'empreses i professionals locals, amb talent, ajudant a enfortir-lo i fer-lo créixer.
 
-*TRANSPARÈNCIA*
+==== Transparència
 
 *Facilitar l'accés* per part de proveïdors i ciutadans a informació precisa i actualitzada al voltant dels contractes de l'àmbit de les TIC de l'Ajuntament, *fer més visibles els processos de contractació pública i augmentar-ne la transparència* té efectes molt positius en relació amb l'obertura i accessibilitat d'aquests procediments:
 
@@ -68,7 +68,7 @@ L'objectiu de minimitzar aquestes barreres és eixamplar el ventall de proveïdo
 
 * De cara als proveïdors, que puguin accedir en un únic punt a tota la informació associada a la contractació municipal (planificació contractació, criteris i mesures de valoració, posicionament estratègic de l'Ajuntament, etc.) amb la finalitat de fer aquesta més accessible i facilitar la seva planificació de recursos.
 
-*BENEFICIS ESPERATS*
+==== Beneficis esperats
 
 L'objectiu d'aquest nou model de relació és el *foment de procediments de contractació més participatius, accessibles, més àgils i flexibles, amb l'objectiu de:*
 
@@ -78,9 +78,9 @@ L'objectiu d'aquest nou model de relació és el *foment de procediments de cont
 
 * *Facilitar i afavorir l'adquisició de productes i serveis innovadors, alineats amb els objectius estratègics de l'Ajuntament pel que fa a les TIC* (sobirania tecnològica, ús d'estàndards oberts, etc.) i que incorporin les darreres solucions existents al mercat.
 
-*MODEL DE GESTIÓ DE LES DADES*
+=== Model de gestió de les dades
 
-*SEGURETAT I ÈTICA DE LES DADES*
+==== Seguretat i ètica de les dades
 
 El volum de dades generades en l'actualitat ofereix una sèrie d'oportunitats immillorables, però també planteja nous reptes i riscos associats a la seva seguretat.
 L'Ajuntament ha de vetllar per la seguretat de les dades del ciutadà i de la ciutat protegint la confidencialitat, la integritat i garantint la qualitat afegint mecanismes adients.
@@ -91,7 +91,7 @@ La publicació de dades s'ha de fer sempre tenint present que la privacitat del 
 El cicle de vida de les dades ha garantir que en totes les seves fases es desenvolupin amb una ètica respectuosa amb el ciutadà.
 Des de com es generen les dades, s'emmagatzemen i comparteixen, fins als tractaments i finalitats per a les quals s'utilitzen.
 
-*DADES OBERTES*
+==== Dades obertes
 
 L'obertura de dades del sector públic (open public data) és un moviment impulsat per les administracions amb l'objectiu d'aprofitar al màxim els recursos públics disponibles i les actuals capacitats tecnològiques, exposant la informació generada o custodiada per organismes públics i permetent-ne l'accés i la seva reutilització per al benefici de qualsevol persona o entitat interessada.
 
@@ -102,22 +102,22 @@ Per exemple, compartir les dades associades a mobilitat pot facilitar la creaci�
 
 En una ciutat democràtica, els ciutadans i les ciutadanes han de poder fer servir i contribuir a un patrimoni comú de coneixements i la participació activa de la ciutadania en la resolució dels reptes de la ciutat.
 
-*BENEFICIS ESPERATS DEL NOU MODEL DE GESTIÓ DE DADES*
+==== Beneficis esperats del nou model de gestió de dades
 
 L'objectiu d'aquest nou model de gestió de les dades *és posar en valor les dades i la infraestructura d'informació pública de la ciutat i garantir*, com a condició indispensable, *la privacitat i l'ús responsable de les dades* associades als ciutadans i a l'ús dels serveis públics municipals.
 
 Un nou model de gestió de les dades que es generen com a resultat del funcionament de serveis, aplicacions i de l'exercici de les competències municipals.
 
-L'objectiu és disposar d'una infraestructura de dades pública i oberta per desenvolupar aplicacions innovadores data-driven per tenir *un millor accés als serveis públics i una millor qualitat de vida tot garantint, al mateix temps, la sobirania de les dades als ciutadans.*
+L'objectiu és disposar d'una infraestructura de dades pública i oberta per desenvolupar aplicacions innovadores _data-driven_ per tenir *un millor accés als serveis públics i una millor qualitat de vida tot garantint, al mateix temps, la sobirania de les dades als ciutadans.*
 
-*NOVA METODOLOGIA DE DESENVOLUPAMENT*
+=== Nova metodologia de desenvolupament
 
 Les noves eines i tecnologies permeten trencar amb el cicle de vida clàssic de construcció de sistemes estructurat en un conjunt de fases molt tancades i d'abast molt concret: definició de requeriments, disseny funcional, disseny tècnic, construcció, proves, proves d'usuari, pas a producció, manteniment.
 
 Aquest trencament es tradueix en una reducció de terminis molt important entre els requeriments i el desplegament (pas a producció).
 Les metodologies àgils, en general, aprofiten aquesta reducció per *construir aplicacions d'una manera més eficient, més segura, més atractiva i més focalitzada en les necessitats de l'usuari final.*
 
-*BENEFICIS ESPERATS DE L'ÚS DE METODOLOGIES ÀGILS*
+==== Beneficis esperats de l'ús de metodologies àgils
 
 L'ús de metodologies àgils aporta una sèrie d'avantatges en relació amb les metodologies tradicionals, especialment en l'àmbit de la prestació de serveis digitals.
 Concretament:
@@ -132,18 +132,18 @@ Concretament:
 
 * Transformar la cultura organitzativa. Posant el focus en la col·laboració i transparència.
 
-*SOBIRANIA TECNOLÒGICA*
+=== Sobirania tecnològica
 
 La dinàmica actual de proveïment de serveis TIC basada, en gran part, en la contractació externa i l'ús de programari propietari ha portat a una certa dependència dels proveïdors TIC per part de l'Ajuntament de Barcelona. Aquesta dependència té certs efectes no desitjats pel que fa al cost de l'adquisició i ús dels sistemes d'informació i de la capacitat de l'Administració per mantenir-lo i evolucionar-lo. Amb l'objectiu de revertir aquesta situació, s'estan endegant una sèrie d'actuacions:
 
-* *Fomentar l'ús prioritari de programari lliure, arquitectura i estàndards oberts* per ajudar a trencar la dependència i el vendor lock-in dels proveïdors, avançant cap a la sobirania tecnològica de l'Ajuntament. Així mateix, es pretén fomentar i intensificar la creació de solucions de manera col·laborativa comptant amb comunitats d'usuaris i altres administracions.
+* *Fomentar l'ús prioritari de programari lliure, arquitectura i estàndards oberts* per ajudar a trencar la dependència i el _vendor lock-in_ dels proveïdors, avançant cap a la sobirania tecnològica de l'Ajuntament. Així mateix, es pretén fomentar i intensificar la creació de solucions de manera col·laborativa comptant amb comunitats d'usuaris i altres administracions.
 
 A més, aquesta sobirania tecnològica, promoguda amb estàndards oberts, ha de ser una eina per al bé comú, que generi nova economia, enriqueixi el sector TIC local i faciliti, també, compartir coneixement entre diferents ciutats.
 
 * *Definir nous marcs contractuals que tinguin en compte la capacitació i formació necessàries dels tècnics municipals* implicats en els projectes de disseny i desenvolupament de programari amb la finalitat de minimitzar la dependència envers tercers per a la gestió dels serveis municipals.
 
 
-*BENEFICIS ESPERATS*
+==== Beneficis esperats
 
 L'objectiu és fer ús preferent del programari lliure, arquitectura i estàndards oberts, així com dotar l'Ajuntament dels perfils i capacitats necessàries per recuperar el coneixement dels serveis TIC vinculats a la gestió de la ciutat i el govern dels serveis digitals.
 Amb això es pretén adquirir una sobirania tecnològica que permeti deixar aquest coneixement com a llegat per a la mateixa ciutat.
@@ -157,7 +157,7 @@ A més, es deriven altres beneficis com els següents:
 
 * No obligar els ciutadans a utilitzar solucions tecnològiques de proveïdors específics.
 
-* Garantir la sobirania tecnològica i la independència de proveïdors específics (evitar el vendor lock-in) i la capacitat d'establir polítiques pròpies i transparents pel que fa a actualitzacions, seguretat i gestió d'incidències.
+* Garantir la sobirania tecnològica i la independència de proveïdors específics (evitar el _vendor lock-in_) i la capacitat d'establir polítiques pròpies i transparents pel que fa a actualitzacions, seguretat i gestió d'incidències.
 
 * Millorar la capacitat d'adaptar i estendre els sistemes digitals de l'Ajuntament a mesura que les necessitats evolucionen i garantir la seva sostenibilitat a llarg termini.
 
@@ -168,7 +168,7 @@ A més, es deriven altres beneficis com els següents:
 
 image::ict-procurement-p13-cat.svg[Infografia criteris o condicions, width=2277, align="center"]
 
-La incorporació d'aquests en un procés de vies, que es recullen breument a continuació:
+La incorporació d'aquests en un procés de compra pública es pot articular per diferents vies, que es recullen breument a continuació:
 
 image::ict-procurement-p14-cat.svg[Infografia criteris i condició, width=2361, align="center"]
 
