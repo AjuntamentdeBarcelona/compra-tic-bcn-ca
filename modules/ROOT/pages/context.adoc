@@ -85,7 +85,7 @@ Concretament:
 * Finalment, la publicació d'aquesta guia esdevé un exercici de transparència per als ciutadans, ja que permet aprofundir en el coneixement, seguiment i control de les mesures que està prenent l'Ajuntament per tal d'assolir els objectius fixats.
 
 
-=== Elaboració de la guia / posada en marxa
+=== Elaboració de la guia i posada en marxa
 
 Aquesta guia és *resultat del treball conjunt de diferents àrees de l'Ajuntament i de l'IMI, i la participació del sector empresarial:*
 
@@ -125,6 +125,8 @@ Les administracions públiques poden utilitzar els seus contractes com a eficaç
 ** Incrementar la sobirania tecnològica de l'Ajuntament.
 ** Disposar d'una infraestructura de dades pública i oberta que garanteixi la privacitat dels ciutadans i incrementi la transparència de l'Administració municipal.
 ** Incorporar noves metodologies que permetin el desenvolupament de serveis digitals innovadors, eficients i focalitzats en les necessitats del ciutadà.
+
+// TODO: image
 
 //[cols="a,a",width="25%",align="center"]
 //|===
@@ -197,4 +199,4 @@ Barcelona proposa una definició àmplia de promoció de la innovació en la sev
 * Barcelona també promou amb els mateixos objectius la inclusió de la innovació en les seves compres regulars.
 És a dir, la compra de qualsevol producte o servei amb un component d'innovació.
 
-*Per a més detalls, consulteu la Guia de compra per a la innovació editada per l'Ajuntament de Barcelona.*
+*Per a més detalls, consulteu la xref:en/innovative-procurement:ROOT:innovating.adoc[Guia de compra pública innovadora] editada per l'Ajuntament de Barcelona.*
