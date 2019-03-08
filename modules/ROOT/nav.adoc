@@ -10,4 +10,5 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 .$$BOTTOM
 * xref:{lang}/glossary:ROOT:glossary.adoc[Glossari de les guies]
+* xref:index.adoc[Autors i altres informacions del document]
 * link:{attachmentsdir}/barcelona_ict_procurement_{revnumber}.{lang}.pdf[Descarregar el PDF]
