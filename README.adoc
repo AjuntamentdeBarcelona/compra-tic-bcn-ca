@@ -40,7 +40,7 @@
 //
 // MANDATORY. Summary of the contents of the document. This would correspond to
 // the "abstract" in an academic publication.
-:_summary: Directrius per a definir el nou model de relació amb els proveïdors de tecnologia basat en el xref:tech-practices:ROOT:aim-and-scope.adoc[Codi de Pràctiques Tecnològiques].
+:_summary: Directrius per a definir el nou model de relació amb els proveïdors de tecnologia basat en el https://www.barcelona.cat/digitalstandards/ca/tech-practices[Codi de Pràctiques Tecnològiques].
 //
 // MANDATORY. Comma-separated list of terms to help classifying and searching
 // the document. In web format, this terms are integrated as SEO enabling
@@ -77,7 +77,7 @@ endif::[]
 [abstract]
 {_summary}
 
-Aquest document és part de https://ajuntament.barcelona.cat/digital/ca/transformacio-digital/tecnologia-per-a-un-millor-govern/transformacio-amb-metodologia-agile[Estàndards Digitals Ètics] de l'Ajuntament de Barcelona.
+Aquest document és part de https://www.barcelona.cat/digitalstandards/ca[Estàndards Digitals Ètics] de l'Ajuntament de Barcelona.
 
 == Metadata
 
